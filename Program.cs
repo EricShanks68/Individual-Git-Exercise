@@ -26,6 +26,10 @@ namespace FizzBuzz
                 {
                     output += "buzz";
                 }
+                if (i % 11 == 0)
+                {
+                    output += "bizz";
+                }
                 else if (output == "") { output = i.ToString(); }
                 answer.Add(output);
                 Console.WriteLine(output);
