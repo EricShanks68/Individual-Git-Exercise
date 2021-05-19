@@ -7,9 +7,11 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            var resultList = fizzbuzz(3);
-            string result = resultList[resultList.Count - 1].ToString();
-            Console.WriteLine(result);
+            var resultList = fizzbuzz(50);
+           // string result = resultList[resultList.Count - 1].ToString();
+           // Console.WriteLine(result);
+
+            //COmment for testing git update
 
         }
 
