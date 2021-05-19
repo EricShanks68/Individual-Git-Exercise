@@ -15,7 +15,7 @@ namespace FizzBuzz
         public static ArrayList fizzbuzz(int n)
         {
             ArrayList answer = new ArrayList();
-            for (int i = 1; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 String output = "";
                 if (i % 3 == 0)
