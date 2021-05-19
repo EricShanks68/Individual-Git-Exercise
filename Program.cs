@@ -11,7 +11,7 @@ namespace FizzBuzz
 
         }
 
-        // Simple fizzbuzz method. Prints Fizz if divisible by 3, buzz if divisible by 5.
+        // Simple fizzbuzz method. Prints Fizz if divisible by 3, buzz if divisible by 5, fuzz if divisible by 7.
         public static ArrayList fizzbuzz(int n)
         {
             ArrayList answer = new ArrayList();
@@ -34,7 +34,6 @@ namespace FizzBuzz
                 answer.Add(output);
                 Console.WriteLine(output);
             }
-            //Console.WriteLine(answer); this does not print values of the array list dummy
             return answer;
         }
     }

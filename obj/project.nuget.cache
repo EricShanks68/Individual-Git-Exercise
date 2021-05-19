@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXPSZh/L5Hx/mlPDclRKA7GooyYtE2MVl+kqp40Xr+MbvsDblEJTOzD9ub4xRho31HLGZz8CuEbhovTPDAgn1w==",
+  "dgSpecHash": "0eejnUYtFrQGAIyqDmX4oEXZS0ydy1BPQ3lsILnyADIAPhLKw0zrT6WK1A6LhwjqSBq9uf8RqFtIvlgBVqHqaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eric\\Documents\\Git\\School\\Individual-Git-Exercise\\FizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\Individual-Git-Exercise\\FizzBuzz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
