@@ -7,7 +7,9 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            fizzbuzz(100);
+            var resultList = fizzbuzz(3);
+            string result = resultList[resultList.Count - 1].ToString();
+            Console.WriteLine(result);
 
         }
 
@@ -15,7 +17,7 @@ namespace FizzBuzz
         public static ArrayList fizzbuzz(int n)
         {
             ArrayList answer = new ArrayList();
-            for (int i = 1; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 String output = "";
                 if (i % 3 == 0)
