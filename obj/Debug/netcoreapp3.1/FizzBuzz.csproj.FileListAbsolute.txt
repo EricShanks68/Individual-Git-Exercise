@@ -11,3 +11,16 @@ C:\Users\Eric\Documents\Git\School\Individual-Git-Exercise\obj\Debug\netcoreapp3
 C:\Users\Eric\Documents\Git\School\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.dll
 C:\Users\Eric\Documents\Git\School\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
 C:\Users\Eric\Documents\Git\School\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Eric\Documents\Git\School\Cosc_499\Individual-Git-Exercise\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
