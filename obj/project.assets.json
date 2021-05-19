@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\Individual-Git-Exercise\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\Individual-Git-Exercise\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\eric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\eric\\Documents\\Git\\School\\COSC_499\\Individual-Git-Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
