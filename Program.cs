@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace FizzBuzz
 {
-   public class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -31,16 +31,17 @@ namespace FizzBuzz
                 if (i % 7 == 0)
                 {
                     output += "fuzz";
-                if (i % 11 == 0)
-                {
-                    output += "bizz";
                 }
-                else if (output == "") { output = i.ToString(); }
-                answer.Add(output);
-                Console.WriteLine(output);
+                if (i % 11 == 0)
+                    {
+                        output += "bizz";
+                    }
+                    else if (output == "") { output = i.ToString(); }
+                    answer.Add(output);
+                    Console.WriteLine(output);
+                }
+                return answer;
             }
-            return answer;
         }
     }
-}
 
